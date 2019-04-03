@@ -1,7 +1,8 @@
 # javanut7-examples
-Example Code for Java in a Nutshell (6th Edition)
 
-This is the example programs and samples from Java in a Nutshell (6th Edition) 
+Example Code for Java in a Nutshell (7th Edition)
+
+This is the example programs and samples from Java in a Nutshell (7th Edition) 
 written by Ben Evans and published by O'Reilly.
 
 The initial code drop is incomplete - rather than spending a lot of time tidying
